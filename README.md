@@ -1,5 +1,7 @@
 # Arduino Car Bluetooth
 
+<img src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" width="180" height="320" />
+
 My first project done in C in december 2018, before entering college. (I barely knew how to use C syntax at that time, just know how if and switch works).
 
 It was the final project of the microcontroller discipline, given in the last year of the electrotechnics course at IFG. 
