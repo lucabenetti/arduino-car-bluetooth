@@ -1,6 +1,6 @@
 # Arduino Car Bluetooth
 
-<img src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" width="320" height="180" />
+<img src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/ArduinoCarBluetooth/master/photo.jpg" width="427" height="240" />
 
 My first project done in C in december 2018, before entering college. (I barely knew how to use C syntax at that time, just know how if and switch works).
 
