@@ -31,7 +31,7 @@ Foi o projeto final da disciplina microcontroladores, ministrada no último ano 
 
 Código muito simples, usando switch case e serial. De qualquer maneira, foi bem divertido criar algo funcional e ver o carrinho e tudo mais funcionando.
 
-<h4>Itens utilillizados</h4>:
+<h4>Itens utilillizados:</h4>
 
 - Chassi RC Car Arduino. (Motores, rodas e suporte para pilhas incluso).
 - Módulo HC-06 Bluetooth.
