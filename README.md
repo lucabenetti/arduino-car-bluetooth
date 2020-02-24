@@ -8,7 +8,8 @@ It was the final project of the microcontroller discipline, given in the last ye
 
 Very simple code, using switch case and serial. Anyway, it was really fun to create something functional and see the cart and everything else working.
 
-<h4>Components</h4>
+<h4>Components</h4> 
+
 - Chassi RC Car Arduino. (Motores, rodas e suporte para pilhas incluso).
 - HC-06 Bluetooth Module.
 - H Bridge LN298N Module.
@@ -31,6 +32,7 @@ Foi o projeto final da disciplina microcontroladores, ministrada no último ano 
 Código muito simples, usando switch case e serial. De qualquer maneira, foi bem divertido criar algo funcional e ver o carrinho e tudo mais funcionando.
 
 <h4>Itens utilillizados</h4>:
+
 - Chassi RC Car Arduino. (Motores, rodas e suporte para pilhas incluso).
 - Módulo HC-06 Bluetooth.
 - Módulo Ponte H LN298N.
