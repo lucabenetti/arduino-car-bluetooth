@@ -18,7 +18,28 @@ Very simple code, using switch case and serial. Anyway, it was really fun to cre
 - 8 battery x 1,5V.
 
 <h4>App used as controller in smartphone:</h4>
-- [ARDUINO CAR (ONE DAY OF CODE) - GOOGLE PLAY]
+- [ARDUINO CAR - GOOGLE PLAY]
 
 
-[ARDUINO CAR (ONE DAY OF CODE) - GOOGLE PLAY]: https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar
+[ARDUINO CAR - GOOGLE PLAY]: https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar
+
+PT-BR
+------
+
+Um dos meus primeiros projetos feitos, em dezembro de 2018, antes de entrar na faculdade. 
+
+Foi o projeto final da disciplina microcontroladores, ministrada no último ano do curso de eletrotécnica no IFG. (mal sabia usar a sintaxe de C naquela época). 
+
+Código muito simples, usando switch case e serial. De qualquer maneira, foi bem divertido criar algo funcional e ver o carrinho e tudo mais funcionando.
+
+Itens utilillizados:
+- Chassi RC Car Arduino. (Motores, rodas e suporte para pilhas incluso).
+- Módulo HC-06 Bluetooth.
+- Módulo Ponte H LN298N.
+- Protoboard.
+- Jumpers.
+- Pilha 9V.
+- 8 pilhas 1,5V.
+
+App utilizado como controle no celular:
+- ARDUINO CAR (ONE DAY OF CODE) - GOOGLE PLAY.
