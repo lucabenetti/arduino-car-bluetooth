@@ -8,7 +8,7 @@ It was the final project of the microcontroller discipline, given in the last ye
 
 Very simple code, using switch case and serial. Anyway, it was really fun to create something functional and see the cart and everything else working.
 
-Components
+<h4>Components</h4>
 - Chassi RC Car Arduino. (Motores, rodas e suporte para pilhas incluso).
 - HC-06 Bluetooth Module.
 - H Bridge LN298N Module.
@@ -17,7 +17,7 @@ Components
 - 9V battery.
 - 8 battery x 1,5V.
 
-App used as controller in smartphone:
+<h4>App used as controller in smartphone:</h4>
 - [ARDUINO CAR (ONE DAY OF CODE) - GOOGLE PLAY]
 
 
